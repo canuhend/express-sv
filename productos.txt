@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Samsung S10",
+    "price": 50000,
+    "thumbnail": "https://ejemplo.com",
+    "id": 1
+  },
+  {
+    "title": "Motorola X",
+    "price": 30000,
+    "thumbnail": "https://ejemplo.com",
+    "id": 2
+  },
+  {
+    "title": "Redmi 9",
+    "price": 20000,
+    "thumbnail": "https://ejemplo.com",
+    "id": 3
+  }
+]
